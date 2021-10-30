@@ -1,0 +1,7 @@
+-Please Go to the readme file and read the presentation
+
+-Please Watch the demo in the watchme folder
+
+-db folder is a database
+
+-for coding check, please go the YGSC folder
